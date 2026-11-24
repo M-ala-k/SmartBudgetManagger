@@ -132,4 +132,4 @@ but those are not summarised.
 • Warning scope: the status compares total expenses with the overall budget; a single overspent category is shown only as a negative
 Remaining value.
 • Data entry: the drop-down lists do not reject other text, and the sheets are not protected, so formulas can be overwritten.
-• Totals use columns: amounts count according to the Income or Expense column, not the Type text. Amounts display in euros (€).
+• Totals use columns: amounts count according to the Income or Expense column, not the Type text. Amounts display in euros .
